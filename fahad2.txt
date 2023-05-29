@@ -1,0 +1,1 @@
+some data is present in in 2.txt file and other is in 1.txt login     ssystem
